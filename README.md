@@ -8,7 +8,7 @@ The Mega Scanner is a modular, lore-integrated diagnostic suite for EmporiumRP. 
 - Conflict Scanner: Detects hook collisions, rogue timers, and unsafe scaffolds.
 - Cleanup Utility: Purges orphaned entities and memory leaks with immersive feedback.
 - Onboarding Kit: Validates contributor headers, templates, and lore phrasing.
-- Commands **emporium_scan_conflicts** **emporium_cleanup** **emporium_onboard_dev** **emporium_reload_tool**
+- Commands **emporium_scan_conflicts**, **emporium_cleanup**, **emporium_onboard_dev**, **emporium_reload_tool**
 
 ## Lore Integration
 
