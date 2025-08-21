@@ -18,6 +18,35 @@ All alerts are phrased as Tribunal dispatches:
 
 Place the `MegaScanner` folder inside your server's `addons/` directory. Ensure `config.lua` is tailored to your RP environment.
 
+## Mega Scanner: Core Functions
+Error HUD Overlay
+Displays live error feedback in-game
+
+Color-coded severity (e.g. Tribunal Red for critical, Lore Yellow for warnings)
+
+Links directly to contributor notes or onboarding guides
+
+## Conflict Scanner
+Detects overlapping hooks, rogue timers, and metatable collisions
+
+Flags legacy code that violates contributor safety or RP immersion
+
+Can optionally log to a lore-stamped verdict file for postmortem review
+
+## Cleanup Utility
+Identifies orphaned entities, broken references, and memory leaks
+
+Offers one-click cleanup with lore-conscious phrasing like “Purge unauthorized remnants”
+
+Can be configured to auto-clean on map load or admin trigger
+
+## Contributor Onboarding Kit
+Scans for missing licensing headers, malformed templates, or unsafe scaffolds
+
+Suggests lore-integrated phrasing for tooltips, descriptions, and commit messages
+
+Ensures every module meets EmporiumRP’s ethical and immersive standards
+
 ## Contributor Notes
 
 - All modules are spawnless and legacy-safe.
