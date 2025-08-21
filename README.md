@@ -16,7 +16,7 @@ All alerts are phrased as Tribunal dispatches:
 
 ## Installation
 
-Place the `MegaScanner` folder inside your server's `addons/` directory. Ensure `config.lua` is tailored to your RP environment.
+Place the `MegaScanner` folder inside your server's `addons/` directory.
 
 ## Mega Scanner: Core Functions
 Error HUD Overlay
